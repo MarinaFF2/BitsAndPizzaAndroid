@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Bits and Pizza</string>
+    <string name="create_order">Create Order</string>
+    <string name="create_order_title">Create Order</string>
+    <string name="action_share">Share</string>
+
+    <string name="tile_top">Top Fragment</string>
+
+    <string name="home_tab">Home</string>
+    <string name="pizza_tab">Pizza</string>
+    <string name="pasta_tab">Pasta</string>
+    <string name="store_tab">Store</string>
+
+
+    <string name="company_name">Bits and Pizza</string>
+    <string name="restaurant_image">Restaurant Image</string>
+    <string name="home_text">
+        Desde que abrimos nuestras puertas en 2017 bits and pizza
+        ha construido una solida reputacion como uno de los mejores
+        restaurantes de america de comida italiana.
+        Mucha getne piensa que comer fuera es solo estar con familia y amigos.
+        Nosotros creemos que es la más divertida mientras que manejas tu telefono.
+    </string>
+
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_details_hint">Please enter your order</string>
+
+    <string name="detail_text_nombre">Nombre</string>
+    <string name="detail_text_descripcion">Descricion</string>
+
+    <string-array name="pizzas">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+    <string-array name="pasta">
+        <item>spagethe bolonesa</item>
+        <item>lasagna</item>
+    </string-array>
+    <string-array name="stores">
+        <item>Cambridge</item>
+        <item>Sebatopol</item>
+    </string-array>
+</resources>
